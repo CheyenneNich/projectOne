@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Page Two</title>
+        // add css sheet
+
+    </head>
+    <body>
+        <h1> Have a look! </h1>
+        //insert nav bar
+
+        //insert 6 images
+        //use a grid
+        //3 across 2 down
+        //dont forget labels for images
+        //when you click on the image you open a new tab with the source of the photo
+    </body>
+</html>

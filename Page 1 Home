@@ -1,0 +1,29 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Page One</title>
+        // add css link
+
+    </head>
+    <body>
+        <h1> Just in case you need a pick me up</h1>
+        //add in navigation bar
+        <h2>What?</h2>
+        <p>
+            A various assortment of things that will hopefully be a speck of sunshine when you need it.
+        </p>
+        <h2>Why?</h2>
+        <p>
+            Sometimes people might need help finding the light switch.
+        </p>
+        <h2>//put something here</h2>
+        <p>
+            //put something here too
+        </p>
+
+        <img> //figure out how to insert an image
+
+    </body>
+
+
+</html>
