@@ -1,0 +1,52 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>newsletter</title>
+        <link rel="stylesheet" href="newsletter.css">
+
+    </head>
+    <body>
+        <h1>Become a member!</h1>
+        <div class="navbar">
+            <a href="home.html">Home</a>
+            <a href="images.html">Images</a>
+            <a href="stories.html">Stories</a>
+            <a href="newsletter.html">Newsletter</a>
+        </div>
+        <div>
+            <p>
+                A once a week email will be sent on Sunday mornings. Even if you don't want to subscribe, you can still submit
+                uplifting stories you want to be shared.
+            </p>
+        </div>
+        <form>
+            <fieldset class="form">
+                <legend>Sign up</legend>
+                <div>
+                    <label for="firstName">First name</label>
+                    <input type="text" id="firstName" name="first_name">
+                </div>
+                <div>
+                    <label for="lastName">Last name</label>
+                    <input type="text" id="lastName" name="last_name">
+                </div>
+                <div>
+                    <label for="email">Email</label>
+                    <input type="email" id="email" name="email_address">
+                </div>
+                <div>
+                    <label for="submissions">Submit a story that made you feel good!</label>
+                    <textarea id="submissions" name="submissions"></textarea>
+                </div>
+                <div>
+                    <input type="checkbox" id="iAgree" name="iAgree">
+                    <label for="iAgree">I agree to recieve one email per week.</label>
+                </div>
+                <div>
+                    <input type="submit" id="submit" name="submit">
+                </div>
+
+            </fieldset>
+        </form>
+    </body>
+</html>
